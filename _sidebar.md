@@ -8,5 +8,6 @@
 * **Guide général**
     * [Le but du Chatbot](pages/CNTChatBot.md)
     * [Le WorkFlow](pages/ChatBotWorkflow.md)
-* **développeur**
-    * [Guide Technique](pages/workflowDev.md)
+* **Developper d'avantage**
+    * [Explication Technique](pages/workflowDev.md)
+    * [Ajout de service](pages/ajouterServiceDev.md)
