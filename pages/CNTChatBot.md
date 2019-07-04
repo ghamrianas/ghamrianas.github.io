@@ -18,4 +18,4 @@ Les membres de la CNT peuvent choisir de bénéficier de la NewsLetter.
 
 ### Autres Services
 
-Pour ajouter des services, Consultez le volet <a href="#">développement</a>.
+Pour ajouter des services, Consultez le volet <a href="#">Ajout de service</a>.
