@@ -2,7 +2,7 @@
 
 # CNT Landbot <small>EBF</small>
 
-> Un ChatBot Freemium - Emerging Business Factory.
+> Un ChatBot développé à Emerging Business Factory.
 
 - Facile à utiliser et à personnaliser
 - Pas de fichier volumineux, ready-to-go links.
